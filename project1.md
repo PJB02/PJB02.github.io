@@ -6,7 +6,7 @@ Clue Game
 -   **Class:CSCI-325 Objected Oriented Programming** 
 -   **Grade:A** 
 -   **Language(s):Java** 
--   **Source Code Repository:** [features/mastering-markdown]([https://guides.github.com/features/mastering-markdown/](https://github.com/csu-cs/CSCI-325_Clue_Game))  
+-   **Source Code Repository:** [[features/mastering-markdown]([https://guides.github.com/features/mastering-markdown/])  ](https://github.com/csu-cs/CSCI-325_Clue_Game.git)
     (Please [email me](mailto:JABraddock@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
