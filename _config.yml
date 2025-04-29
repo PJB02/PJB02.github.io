@@ -7,12 +7,11 @@ description: > # your text below (remove <br /> elements if you don't need line 
   In partial fulfillment of the requirements for the degree of
   Bachelor of Science in Cybersecurity (class of 2025)
   <br /><br />
-  <a href="https://example.com/resume">View My Resume</a>
+  <a href="https://csustudentnet-my.sharepoint.com/:w:/g/personal/jabraddock_csustudent_net/ES8gF_gsUd9NmDyr43r4RaMB3E_ZVWH2vaYyOCc4dF6gcg?e=L4PoXh">View My Resume</a>
   <br /><br />
   <a href="https://www.linkedin.com/in/jacob-braddock-10155b2ab/">View My LinkedIn Profile</a>
 repository: "csci-csu/csci-portfolio"
-github_username:  username # update with your username
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+github_username:  PJB02 # update with your username
 
 # Build setting
 theme: jekyll-theme-minimal
