@@ -31,10 +31,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [The Ethical Meme](/pdf/sample_presentation.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:CSCI-330 Computer Architecture**  
+-   **Grade:A**
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
