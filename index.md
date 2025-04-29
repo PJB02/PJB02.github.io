@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Stuxnet](/pdf/Braddock - Stuxnet.pptx)
 
-- **Class:** 
-- **Grade:**
+- **Class:CSCI-405 Principles of Cybersecurity** 
+- **Grade:A**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Hotz v Sony](/pdf/Braddock - Hotz v Sony.pptx)
 
-- **Class:** 
-- **Grade:**
+- **Class:CSCI-405 Principles of Cybersecurity** 
+- **Grade:B**
 
 ---
 
