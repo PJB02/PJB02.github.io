@@ -18,13 +18,13 @@ Simply click the .jar file if you have java and its updated
 
 ## UI Design
 
-![screenshot](images/sp1.png)  
+![screenshot](pdf/sp1.png)  
 Fig 1. The Base Screen
 
-![screenshot](images/sp2.png)  
+![screenshot](pdf/sp2.png)  
 Fig 2. File Encrypted
 
-![screenshot](images/sp3.png)  
+![screenshot](pdf/sp3.png)  
 Fig 3. File Decrypted
 
 
