@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [The Ethical Meme](/pdf/sample_presentation.pdf)
+### [The Ethical Meme](/pdf/Braddock Ethics Meme Paper.pdf)
 
 -   **Class:CSCI-330 Computer Architecture**  
 -   **Grade:A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Growing Concern of Ethics](/pdf/EthicsJacobBraddockSP24.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:CSCI-325 Object Oriented Programming** 
+-   **Grade:A**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [The "Fairness" of Code Usage](/pdf/Ethics Paper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:CSCI-301 Survey of Scriping Languages** 
+-   **Grade:A**
 
 ---
 
